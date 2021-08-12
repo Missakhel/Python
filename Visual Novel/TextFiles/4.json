@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/4.jpg"
+        },
+        {
+            "text": "THE DOWNTOWN"
+        },
+        {
+            "text": "This is the busiest part of the city"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/8.json"
+        },
+        {
+            "file": "./TextFiles/9.json"
+        }
+    ]
+}

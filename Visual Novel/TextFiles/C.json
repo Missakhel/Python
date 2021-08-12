@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/C.jpg"
+        },
+        {
+            "text": "NUKED BEACH"
+        },
+        {
+            "text": "This beach was severely bombed by the enemy."
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/H.json"
+        },
+        {
+            "file": "./TextFiles/D.json"
+        }
+    ]
+}

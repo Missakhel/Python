@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/2.jpg"
+        },
+        {
+            "text": "THE VILLAGE"
+        },
+        {
+            "text": "This is a normal village."
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/4.json"
+        },
+        {
+            "file": "./TextFiles/5.json"
+        }
+    ]
+}

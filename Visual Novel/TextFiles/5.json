@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/5.jpg"
+        },
+        {
+            "text": "WARTORN DISTRICT"
+        },
+        {
+            "text": "This part of the city was destroyed at the war."
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/A.json"
+        },
+        {
+            "file": "./TextFiles/B.json"
+        }
+    ]
+}

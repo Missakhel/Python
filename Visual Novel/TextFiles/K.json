@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/K.jpg"
+        },
+        {
+            "text": "EASTERN DOCKS"
+        },
+        {
+            "text": "These docks were used mainly for fishing"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/A.json"
+        },
+        {
+            "file": "./TextFiles/6.json"
+        }
+    ]
+}

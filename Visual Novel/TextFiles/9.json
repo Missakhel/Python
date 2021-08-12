@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/9.jpg"
+        },
+        {
+            "text": "CENTRAL TRAIN STATION"
+        },
+        {
+            "text": "This train station survived 100 bombings"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/D.json"
+        },
+        {
+            "file": "./TextFiles/5.json"
+        }
+    ]
+}

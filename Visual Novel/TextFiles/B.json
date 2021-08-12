@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/B.jpg"
+        },
+        {
+            "text": "METRO RUINS"
+        },
+        {
+            "text": "The entire metro system was made unusable because of the war"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/E.json"
+        },
+        {
+            "file": "./TextFiles/F.json"
+        }
+    ]
+}

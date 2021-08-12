@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/J.png"
+        },
+        {
+            "text": "MOUNTAINSIDE TOWN"
+        },
+        {
+            "text": "This town was entirely destroyed and abandoned"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/P.json"
+        },
+        {
+            "file": "./TextFiles/K.json"
+        }
+    ]
+}

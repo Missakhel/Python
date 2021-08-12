@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/N.jpg"
+        },
+        {
+            "text": "THE GREAT REMAINS"
+        },
+        {
+            "text": "This is where our ancestors used to live a thousand years ago"
+        },
+        {
+            "text": "A) HOME"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/0.json"
+        },
+        {
+            "file": "./TextFiles/H.json"
+        }
+    ]
+}

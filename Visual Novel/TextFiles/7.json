@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/7.jpg"
+        },
+        {
+            "text": "SEVERED AIRPORT"
+        },
+        {
+            "text": "This airport was almost entirely destroyed by the enemy"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/C.json"
+        },
+        {
+            "file": "./TextFiles/D.json"
+        }
+    ]
+}

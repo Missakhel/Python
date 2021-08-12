@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/G.jpg"
+        },
+        {
+            "text": "HUMID JUNGLE"
+        },
+        {
+            "text": "This rainforest is very hot and dense"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/M.json"
+        },
+        {
+            "file": "./TextFiles/N.json"
+        }
+    ]
+}

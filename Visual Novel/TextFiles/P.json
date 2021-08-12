@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/P.png"
+        },
+        {
+            "text": "HIDDEN BASEMENT"
+        },
+        {
+            "text": "This basement was built under the mountain"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/O.json"
+        },
+        {
+            "file": "./TextFiles/K.json"
+        }
+    ]
+}

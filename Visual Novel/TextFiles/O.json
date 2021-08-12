@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/O.jpg"
+        },
+        {
+            "text": "ENEMY BASE"
+        },
+        {
+            "text": "This is where the enemy army is. I shouldn't be here"
+        },
+        {
+            "text": "A) HOME"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/0.json"
+        },
+        {
+            "file": "./TextFiles/J.json"
+        }
+    ]
+}

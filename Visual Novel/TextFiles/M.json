@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/M.png"
+        },
+        {
+            "text": "NUCLEAR TEST SITE"
+        },
+        {
+            "text": "This is where the army developed their weaponry"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/L.json"
+        },
+        {
+            "file": "./TextFiles/H.json"
+        }
+    ]
+}

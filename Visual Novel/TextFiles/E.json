@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/E.jpg"
+        },
+        {
+            "text": "POSTAGE CENTER"
+        },
+        {
+            "text": "This mail center used to distribute letters between cities"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/D.json"
+        },
+        {
+            "file": "./TextFiles/A.json"
+        }
+    ]
+}

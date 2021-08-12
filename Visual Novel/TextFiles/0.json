@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "image": "./Images/0.jpg"
+        },
+        {
+            "text": "CITY SUBURBS"
+        },
+        {
+            "text": "This is the outer side of the city"
+        },
+        {
+            "text": "A) LEFT"
+        },
+        {
+            "text": "B) RIGHT"
+        },
+        {
+            "file": "./TextFiles/1.json"
+        },
+        {
+            "file": "./TextFiles/2.json"
+        }
+    ]
+}

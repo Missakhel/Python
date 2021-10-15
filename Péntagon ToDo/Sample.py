@@ -26,6 +26,11 @@ def login():
         row=4, column=1, sticky=W, pady=4)
     return frame
 
+def home():
+    frame = Frame(root)
+    Label(frame, text="Welcome").pack()
+    return frame
+
 
 root = Tk()
 root.wm_title('Matricula UTEC')

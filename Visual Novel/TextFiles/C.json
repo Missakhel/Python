@@ -4,22 +4,22 @@
             "image": "./Images/C.jpg"
         },
         {
-            "text": "NUKED BEACH"
+            "text": [
+                "NUKED BEACH",
+                "This beach was severely bombed by the enemy."
+            ]
         },
         {
-            "text": "This beach was severely bombed by the enemy."
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/H.json"
-        },
-        {
-            "file": "./TextFiles/D.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/H.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/D.json"
+                }
+            ]
         }
     ]
 }

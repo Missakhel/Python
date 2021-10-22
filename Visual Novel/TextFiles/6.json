@@ -4,22 +4,22 @@
             "image": "./Images/6.jpg"
         },
         {
-            "text": "WESTERN HARBOR"
+            "text": [
+                "WESTERN HARBOR",
+                "This is the nation's main maritime hub."
+            ]
         },
         {
-            "text": "This is the nation's main maritime hub"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/K.json"
-        },
-        {
-            "file": "./TextFiles/C.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/K.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/C.json"
+                }
+            ]
         }
     ]
 }

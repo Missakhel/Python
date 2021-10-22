@@ -4,22 +4,22 @@
             "image": "./Images/M.png"
         },
         {
-            "text": "NUCLEAR TEST SITE"
+            "text": [
+                "NUCLEAR TEST SITE",
+                "This is where the army developed their weaponry."
+            ]
         },
         {
-            "text": "This is where the army developed their weaponry"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/L.json"
-        },
-        {
-            "file": "./TextFiles/H.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/L.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/H.json"
+                }
+            ]
         }
     ]
 }

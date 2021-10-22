@@ -4,22 +4,22 @@
             "image": "./Images/J.png"
         },
         {
-            "text": "MOUNTAINSIDE TOWN"
+            "text": [
+                "MOUNTAINSIDE TOWN",
+                "This town was entirely destroyed and abandoned."
+            ]
         },
         {
-            "text": "This town was entirely destroyed and abandoned"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/P.json"
-        },
-        {
-            "file": "./TextFiles/K.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/P.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/K.json"
+                }
+            ]
         }
     ]
 }

@@ -4,22 +4,22 @@
             "image": "./Images/3.jpg"
         },
         {
-            "text": "FORGOTTEN TRAIN STATION"
+            "text": [
+                "FORGOTTEN TRAIN STATION",
+                "This train station was lost to time"
+            ]
         },
         {
-            "text": "This train station was lost to time"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/6.json"
-        },
-        {
-            "file": "./TextFiles/7.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/6.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/7.json"
+                }
+            ]
         }
     ]
 }

@@ -4,22 +4,22 @@
             "image": "./Images/9.jpg"
         },
         {
-            "text": "CENTRAL TRAIN STATION"
+            "text": [
+                "CENTRAL TRAIN STATION",
+                "This train station survived 100 bombings."
+            ]
         },
         {
-            "text": "This train station survived 100 bombings"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/D.json"
-        },
-        {
-            "file": "./TextFiles/5.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/D.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/5.json"
+                }
+            ]
         }
     ]
 }

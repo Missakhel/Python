@@ -4,22 +4,22 @@
             "image": "./Images/F.jpg"
         },
         {
-            "text": "METRO TUNNEL"
+            "text": [
+                "METRO TUNNEL",
+                "The only way to 'use' the metro is by walking."
+            ]
         },
         {
-            "text": "The only way to 'use' the metro is by walking"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/J.json"
-        },
-        {
-            "file": "./TextFiles/K.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/J.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/K.json"
+                }
+            ]
         }
     ]
 }

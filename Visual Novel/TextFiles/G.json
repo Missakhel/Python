@@ -4,22 +4,22 @@
             "image": "./Images/G.jpg"
         },
         {
-            "text": "HUMID JUNGLE"
+            "text": [
+                "HUMID JUNGLE",
+                "This rainforest is very hot and thicc."
+            ]
         },
         {
-            "text": "This rainforest is very hot and dense"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/M.json"
-        },
-        {
-            "file": "./TextFiles/N.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/M.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/N.json"
+                }
+            ]
         }
     ]
 }

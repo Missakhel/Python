@@ -4,22 +4,22 @@
             "image": "./Images/B.jpg"
         },
         {
-            "text": "METRO RUINS"
+            "text": [
+                "METRO RUINS",
+                "The entire metro system was made unusable because of the war"
+            ]
         },
         {
-            "text": "The entire metro system was made unusable because of the war"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/E.json"
-        },
-        {
-            "file": "./TextFiles/F.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/E.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/F.json"
+                }
+            ]
         }
     ]
 }

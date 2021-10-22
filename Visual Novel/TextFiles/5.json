@@ -4,22 +4,22 @@
             "image": "./Images/5.jpg"
         },
         {
-            "text": "WARTORN DISTRICT"
+            "text": [
+                "WARTORN DISTRICT",
+                "This part of the city was destroyed at the war."
+            ]
         },
         {
-            "text": "This part of the city was destroyed at the war."
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/A.json"
-        },
-        {
-            "file": "./TextFiles/B.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/A.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/B.json"
+                }
+            ]
         }
     ]
 }

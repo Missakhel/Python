@@ -4,22 +4,22 @@
             "image": "./Images/P.png"
         },
         {
-            "text": "HIDDEN BASEMENT"
+            "text": [
+                "HIDDEN BASEMENT",
+                "This basement was built under the mountain, nobody knows what is being stored here."
+            ]
         },
         {
-            "text": "This basement was built under the mountain"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/O.json"
-        },
-        {
-            "file": "./TextFiles/K.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/O.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/K.json"
+                }
+            ]
         }
     ]
 }

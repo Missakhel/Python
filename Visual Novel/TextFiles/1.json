@@ -4,22 +4,24 @@
             "image": "./Images/1.jpg"
         },
         {
-            "text": "THE DISTRICT"
+            "text": 
+            [
+                "THE DISTRICT",
+                "This is one of the most famous and busiest districts in the nation districts."
+            ]
         },
         {
-            "text": "This is one of the most famous districts."
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/3.json"
-        },
-        {
-            "file": "./TextFiles/4.json"
+            "options":
+            [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/3.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/4.json"
+                }
+            ]
         }
     ]
 }

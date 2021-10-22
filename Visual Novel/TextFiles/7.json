@@ -4,22 +4,22 @@
             "image": "./Images/7.jpg"
         },
         {
-            "text": "SEVERED AIRPORT"
+            "text": [
+                "SEVERED AIRPORT",
+                "This airport was almost entirely destroyed by the enemy"
+            ]
         },
         {
-            "text": "This airport was almost entirely destroyed by the enemy"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/C.json"
-        },
-        {
-            "file": "./TextFiles/D.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/C.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/D.json"
+                }
+            ]
         }
     ]
 }

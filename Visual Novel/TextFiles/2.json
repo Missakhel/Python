@@ -1,25 +1,26 @@
 {
-    "data": [
+    "data":[
         {
             "image": "./Images/2.jpg"
         },
         {
-            "text": "THE VILLAGE"
+            "text": [
+                "THE VILLAGE",
+                "This is a normal village. This part of the countryside is always quiet."
+            ]
         },
         {
-            "text": "This is a normal village."
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/4.json"
-        },
-        {
-            "file": "./TextFiles/5.json"
+            "options":
+            [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/4.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/5.json"
+                }
+            ]
         }
     ]
 }

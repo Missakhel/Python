@@ -4,22 +4,22 @@
             "image": "./Images/E.jpg"
         },
         {
-            "text": "POSTAGE CENTER"
+            "text": [
+                "POSTAGE CENTER",
+                "This mail center used to distribute letters between cities."
+            ]
         },
         {
-            "text": "This mail center used to distribute letters between cities"
-        },
-        {
-            "text": "A) LEFT"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/D.json"
-        },
-        {
-            "file": "./TextFiles/A.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/D.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/A.json"
+                }
+            ]
         }
     ]
 }

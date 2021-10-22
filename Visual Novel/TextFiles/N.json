@@ -4,22 +4,22 @@
             "image": "./Images/N.jpg"
         },
         {
-            "text": "THE GREAT REMAINS"
+            "text": [
+                "THE GREAT REMAINS",
+                "This is where our ancestors used to live a thousand years ago."
+            ]
         },
         {
-            "text": "This is where our ancestors used to live a thousand years ago"
-        },
-        {
-            "text": "A) HOME"
-        },
-        {
-            "text": "B) RIGHT"
-        },
-        {
-            "file": "./TextFiles/0.json"
-        },
-        {
-            "file": "./TextFiles/H.json"
+            "options": [
+                {
+                    "description": "LEFT: Go to the left",
+                    "file": "./TextFiles/0.json"
+                },
+                {
+                    "description": "RIGHT: Go to the right",
+                    "file": "./TextFiles/H.json"
+                }
+            ]
         }
     ]
 }
